@@ -1,0 +1,56 @@
+{
+  "langName": {
+    "message": "Інформація р памя'ті та процесорі"
+  },
+  "langNameShort": {
+    "message": "Інформація"
+  },
+  "langDescription": {
+    "message": "Показ всієї доступної інформації про пам'ять та процесор"
+  },
+  "langMemory": {
+    "message": "Інформація про пам'ять"
+  },
+  "langProcessor": {
+    "message": "Інформація про процесор"
+  },
+  "langDisplay": {
+    "message": "Інформація про монітор"
+  },
+  "langCapacityDescription": {
+    "message": "Загальний обсяг фізичної ємності пам'яті, в байтах"
+  },
+  "langAvailableCapacityDescription": {
+    "message": "Об'єм доступної ємності, в байтах"
+  },
+  "langNumberProcessors":{
+    "message": "Число логічних процесорів"
+  },
+  "langArchName": {
+    "message": "Назва архітектури процесорів"
+  },
+  "langModelName": {
+    "message": "Назва моделі процесорів"
+  },
+  "langFeatures": {
+    "message": "Набір кодів об'єктів із зазначенням деяких можливостей процесора. В даний час підтримуються коди mmx, sse, sse2, sse3, ssse3, sse4_1, sse4_2, and avx"
+  },
+  "langProcessors": {
+    "message": "Інформація про кожного логічному процесорі"
+  },
+  "langProcessorsUser": {
+    "message": "Сукупний час використовуються userspace користувача на цьому процесорі"
+  },
+  "langProcessorsKernel": {
+    "message": "Сукупний час використовується програмами ядра на цьому процесорі"
+  },
+  "langProcessorsIdle": {
+    "message": "Сумарний час, витрачений на холостому ходу цього процесора"
+  },
+  "langProcessorsTotal": {
+    "message": "Загальна сумарний час для цього процесора. Це значення дорівнює користувачеві + ядро + простоює"
+  },
+  "langDisplayName": {
+    "message": "Користувачем зрозуміле ім'я"
+  }
+}
